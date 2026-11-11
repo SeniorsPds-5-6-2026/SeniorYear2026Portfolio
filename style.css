@@ -120,7 +120,7 @@ body {
 
 .reflection {
   flex: 1;
-  background-color: rgba(255, 255, 255, 0.04);
+  background-color: rgba(0, 0, 0, 0.04);
   padding: 1em;
   border-radius: 8px;
 }
@@ -169,7 +169,7 @@ body {
 footer {
   text-align: center;
   font-size: 0.85em;
-  color: #ffffff;
+  color: #0a0909;
   font-weight: bold;
 }
 
