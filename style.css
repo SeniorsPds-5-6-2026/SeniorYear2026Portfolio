@@ -41,7 +41,7 @@ body {
 }
 
 .navbar-right a {
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   font-weight: bold;
 }
@@ -85,7 +85,7 @@ body {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid #ffffff;
+  border: 3px solid #000000;
   object-fit: cover;
 }
 
@@ -97,7 +97,7 @@ body {
 .bio-text h4 {
   margin-top: 0;
   font-weight: bold;
-  color: #ffffff;
+  color: #050505;
 }
 
 /* =========================
@@ -114,7 +114,7 @@ body {
   min-width: 320px;
   height: 450px;
   border: none;
-  background-color: white;
+  background-color: rgb(18, 17, 17);
   border-radius: 8px;
 }
 
@@ -127,13 +127,13 @@ body {
 
 .reflection h3 {
   margin-top: 0;
-  color: #ffffff;
+  color: #0c0c0c;
   font-weight: bold;
 }
 
 .reflection p {
   font-size: 0.95em;
-  color: #ffffff;
+  color: #0b0a0a;
   font-weight: bold;
 }
 
