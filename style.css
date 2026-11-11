@@ -10,7 +10,7 @@ body {
   font-family: 'Montserrat', Arial, sans-serif;
   background-color: #1a1517;
   color: #1c1819;
-  background-image: url("cherry.JPG");
+  background-image: url("spiderlily.JPG");
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -63,7 +63,7 @@ body {
    CARDS
 ========================= */
 .resource-card {
-  background-color: #F6C2D1;
+  background-color: #8a1838;
   margin: 2em auto;
   padding: 1.5em;
   border-radius: 12px;
