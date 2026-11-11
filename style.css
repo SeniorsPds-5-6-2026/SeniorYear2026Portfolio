@@ -97,7 +97,7 @@ body {
 .bio-text h4 {
   margin-top: 0;
   font-weight: bold;
-  color: #835F58;
+  color: #ffffff;
 }
 
 /* =========================
@@ -127,13 +127,13 @@ body {
 
 .reflection h3 {
   margin-top: 0;
-  color: #835F58;
+  color: #ffffff;
   font-weight: bold;
 }
 
 .reflection p {
   font-size: 0.95em;
-  color: #835F58;
+  color: #ffffff;
   font-weight: bold;
 }
 
@@ -169,7 +169,7 @@ body {
 footer {
   text-align: center;
   font-size: 0.85em;
-  color: #835F58;
+  color: #ffffff;
   font-weight: bold;
 }
 
