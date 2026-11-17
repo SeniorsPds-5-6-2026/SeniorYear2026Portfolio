@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-family: 'Montserrat', Arial, sans-serif;
   background-color: #1a1517;
-  color: #1c1819;
+  color: #FFFFFF;
   background-image: url("spiderlily.JPG");
   background-size: cover;
   background-repeat: repeat-y;
@@ -47,7 +47,7 @@ body {
 }
 
 .navbar-right a:hover {
-  color: #f2f2f2;
+  color: #FFFFFF;
 }
 
 /* =========================
